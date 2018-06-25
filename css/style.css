@@ -91,3 +91,8 @@ main {
   padding-right: 1rem;
   padding-left: 1rem;
 }
+
+.caption {
+  padding: 0.8rem;
+  text-align: center;
+}
